@@ -56,7 +56,7 @@ class Motorcycle(Vehicle):
 
 # Usage example:
 car = Car("Honda Accord", "Emran123", "Blue", "Gasoline", 4)
-print("Car Name:", car.get_name())g
+print("Car Name:", car.get_name())
 print("Car License Plate:", car.get_license_plate())
 print("Car Color:", car.get_color())
 print("Car Fuel Type:", car.get_fuel_type())
